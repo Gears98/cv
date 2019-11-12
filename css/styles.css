@@ -1,0 +1,40 @@
+/************ TAG SELECTOR ****************/
+body {
+  background-color: #f9f9f9;
+
+}
+a {
+  color: #7f78d2;
+}
+
+img {
+  border-radius: 100%;
+  border-color: grey;
+}
+img:hover {
+  border-color: silver;
+}
+
+a:hover {
+  color: gold;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #7f78d2;
+  width: 5%;
+}
+
+h1 {
+  color: #c886e5;
+}
+
+h3 {
+  color: #caadde;
+}
+
+/************ ID SELECTOR ***********/
+#button:hover {
+  border-color: gold;
+}
